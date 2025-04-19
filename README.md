@@ -39,7 +39,18 @@ The dataset includes historical consignment and delivery records.
 
 ---
 
-## Tools and Libraries
+## Dataset Info
+
+The repository contains two dataset files:
+- `(raw_data)SCMS_Delivery_History_Dataset.csv` – the original/raw dataset
+- `cleaned_consignment_data.csv` – the cleaned dataset used for model training
+
+> **Note:** GitHub may not display the entire dataset preview due to size limits.  
+> Please download or clone the repository and open the CSV files locally.
+
+```
+
+## Tools and Libraries 
 
 - Python 3.12.2
 - Pandas
